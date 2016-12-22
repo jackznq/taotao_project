@@ -6,3 +6,6 @@
 	symlinks = false
 	ignorecase = true
 	hideDotFiles = dotGitOnly
+[gui]
+	wmstate = normal
+	geometry = 835x475+276+162 185 214
